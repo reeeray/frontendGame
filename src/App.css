@@ -60,3 +60,8 @@
     transform: rotate(360deg);
   }
 }
+
+.continue {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
